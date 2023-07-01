@@ -1,5 +1,3 @@
-# Testing-To-Do-List
-To-Do List is a web-based application designed to help individuals manage and organize their tasks effectively. It offers a user-friendly interface that allows users to create, track, and prioritize their to-do items conveniently.
 # Todo list 
 <a name="readme-top"></a>
 
@@ -56,6 +54,11 @@ To-Do List is a web-based application designed to help individuals manage and or
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> coming soon 🎈
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -122,7 +125,7 @@ You can deploy it with your hosting provider of your choise.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Portfoloi]**
+- [ ] **[To_Do_List]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
