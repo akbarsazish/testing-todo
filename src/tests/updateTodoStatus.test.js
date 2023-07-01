@@ -4,7 +4,7 @@
 import { addTask } from '../modules/handletodo.js';
 import { updateStatus } from '../modules/liststatus.js';
 
-jest.mock('../modules/list.js');
+jest.mock('../modules/taskList.js');
 describe('Testing ClearCompleted function', () => {
   test('UpdateStatus function should change the completed status of the task from the array', () => {
   // mocks windows.location.reload funciton
