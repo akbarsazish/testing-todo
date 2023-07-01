@@ -27,9 +27,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Portfoloi] <a name="about-project"></a>
+# 📖 [Todo_List] <a name="about-project"></a>
 
-**[Portfoloi]** To-Do List is a web-based application designed to help individuals manage and organize their tasks effectively. It offers a user-friendly interface that allows users to create, track, and prioritize their to-do items conveniently.
+**[Todo_List]** To-Do List is a web-based application designed to help individuals manage and organize their tasks effectively. It offers a user-friendly interface that allows users to create, track, and prioritize their to-do items conveniently.
 
 ## 🛠 Built With <a name="built-with"></a>
 
